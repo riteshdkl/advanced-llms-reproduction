@@ -1,0 +1,5 @@
+.venv/
+.env
+*.gguf
+__pycache__/
+.DS_Store
