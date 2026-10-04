@@ -1,6 +1,6 @@
 # What's in the LLM-learning repo (my notes)
 
-This repo is coursework from a graduate "Advanced LLMs" class, not a finished app.
+This repo is simulated learning like "Advanced LLMs" class, not a finished app.
 There's no single program to run — each folder is its own exercise. Together they go
 from running a model, to teaching it new facts, to making it answer from documents,
 to studying how it can be attacked.
